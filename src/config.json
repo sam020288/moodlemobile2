@@ -1,11 +1,11 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.moodle.cmuch",
+    "appname": "CMUCH",
+    "desktopappname": "CMUCH Desktop",
     "versioncode": 3610,
     "versionname": "3.6.1",
     "cache_expiration_time": 300000,
-    "default_lang": "en",
+    "default_lang": "es-mx",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -55,7 +55,7 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-            "url": "https:\/\/school.demo.moodle.net",
+            "url": "https:\/\/plataforma.cmuch.mx",
             "username": "student",
             "password": "moodle"
         },
